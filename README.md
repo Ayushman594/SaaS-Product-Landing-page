@@ -2,6 +2,8 @@ This is a basic landing page of a SaaS product called TaskFlow. TaskFlow is a sm
 
 Technologies used: React js, bootstrap
 
-Homepage of Task Flow 
+<strong>Homepage of Task Flow</strong>
+
+
 <img width="1516" height="680" alt="image" src="https://github.com/user-attachments/assets/6232cbdc-448d-4e58-8f6c-b09e3bf0564f" />
 
