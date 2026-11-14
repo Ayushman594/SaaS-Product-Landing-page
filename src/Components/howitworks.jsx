@@ -22,7 +22,7 @@ function howitworks() {
       <section className="howitworks-section" id="how-it-works">
         <h3 className="text-center">How TaskFlow Works</h3>
 
-        { /* steps card logic */}
+        { /* steps card logic */} 
         <div className="steps-container d-flex flex-wrap justify-content-center gap-3 p-5">
             {Steps.map((step,index)=>{
                 return (

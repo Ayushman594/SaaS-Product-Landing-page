@@ -63,6 +63,25 @@
 .popular h4{
     color:purple;
 }
+
+@media screen and (max-width:400px){
+   .hero-section .info {
+    font-size: 20px !important;
+    margin-left:20px;
+  }
+  .lastline{
+    margin-left:20px;
+  }
+  .features-container{
+    width:80vw !important;
+  }
+  .feature-card,.step-card {
+    width:70vw !important;
+  }
+  .plan-card{
+    width:70vw !important;
+  }
+}
 @media screen and (max-width: 550px) {
   .hero-section .Lead {
     font-size: 30px !important;

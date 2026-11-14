@@ -1,16 +1,21 @@
-# React + Vite
+This is a basic landing page of a SaaS product called TaskFlow. TaskFlow is a smart and user-friendly project management platform designed to simplify the way individuals and teams work. It helps users organize projects, manage daily tasks, assign responsibilities, and track progress — all from one centralized platform. This project is Frontend only. Not included any API/ Backend logic.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies used: React js, bootstrap
 
-Currently, two official plugins are available:
+For Navigation used: React-router-dom and useNavigate Hook
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+Deployment Link:- 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+<strong>Homepage of Task Flow</strong>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<img width="1516" height="680" alt="image" src="https://github.com/user-attachments/assets/6232cbdc-448d-4e58-8f6c-b09e3bf0564f" />
+
+
+
+<strong>Sign Up page</strong>
+
+
+<img width="1519" height="694" alt="image" src="https://github.com/user-attachments/assets/c600808f-2644-43f7-a2a7-74cbbfc2e491" />
