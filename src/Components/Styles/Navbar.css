@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px) {
+  .nav-link,.nav-item button{
+    margin-left:25px;
+  }
+}

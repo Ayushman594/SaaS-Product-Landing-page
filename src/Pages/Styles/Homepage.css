@@ -1,0 +1,97 @@
+.hero-section {
+  height: 90vh;
+  background-image: url("../../assets/TaskFlow.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+.hero-section .Lead {
+  font-size: 50px !important;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.About-section{
+    height:50vh;
+    background-color:rgb(252, 253, 255);
+}
+.features-section{
+    padding:40px;
+}
+.About-section h3,
+.features-section h3,
+.howitworks-section h3, 
+.Pricing-section h3{
+  font-size: 30px;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+    color:rgb(0, 157, 255);
+}
+.About-section p {
+  font-size: 17px;
+  line-height: 2;
+  text-align: justify;
+  padding:20px 0 !important;
+}
+.feature-card,.step-card {
+  width: 20vw;
+}
+.feature-card:hover,.step-card:hover {
+  transform: scale(1.01);
+}
+.Pricing-section{
+    background-color:azure;
+}
+.plan-card{
+    width:30vw;
+    padding:16px;
+    background-color:white;
+    border:1px solid black;
+    border-radius:10px;
+}
+.popular{
+    border:2px solid purple !important;
+    border-radius:10px;
+}
+.popular h4{
+    color:purple;
+}
+@media screen and (max-width: 550px) {
+  .hero-section .Lead {
+    font-size: 30px !important;
+  }
+  .hero-section .info {
+    font-size: 20px !important;
+  }
+  .hero-section .lastline {
+    font-size: 15px !important;
+  }
+  .About-section {
+    height: fit-content;
+  }
+  .feature-card,.step-card {
+    width: 50vw;
+  }
+  .plan-card{
+    width:60vw;
+  }
+}
+
+@media screen and (min-width: 551px) and (max-width: 1000px) {
+  .hero-section .Lead {
+    font-size: 40px !important;
+  }
+  .feature-card,.step-card {
+    width: 30vw;
+  }
+  .plan-card{
+    width:45vw;
+  }
+}
